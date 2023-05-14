@@ -1,0 +1,28 @@
+{
+"States": {
+ "Lagos": [
+  {
+   "Name": "Awolowo House",
+   "Address": "Awolowo House, Ikeja Under bridge"
+  },
+    {
+   "Name": "Idumota Car Park",
+   "Address": "151 Adeniji Adele St, Lagos Island 102273, Lagos"
+  },
+    {
+   "Name": "Car Park",
+   "Address": "F97P+QPW, Lagos Island 102273, Lagos"
+  },
+    {
+   "Name": "Car Park",
+   "Address": "31 Marina Rd, Lagos Island 102273, Lagos"
+  }
+   ],
+ "Abuja": [
+  {
+   "Name": "Wuse Public Car Park",
+   "Address": "Kashim Ibrahim Way, Wuse 904101, Abuja, Federal Capital Territory"
+  }
+   ]
+}
+}
