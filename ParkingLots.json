@@ -16,6 +16,38 @@
     {
    "Name": "Car Park",
    "Address": "31 Marina Rd, Lagos Island 102273, Lagos"
+  },
+  {
+    "Name": "Tinubu Square",
+    "Address": "Broad St, Lagos Island 102273, Lagos"
+  },
+  {
+    "Name": "Cold Stone Creamery",
+    "Address": "Shop 3 Food Court, Adeniran Ogunsanya Shopping Mall, Adeniran Ogunsanya St, Surulere Lagos"
+  },
+  {
+    "Name": "Uba Pension Custodian Limited",
+    "Address": "22B Idowu Tylor, Engineering Close, Eti-Osa, Lagos"
+  },
+  {
+    "Name": "Banner Energy Limited",
+    "Address": "Plot 6 Babafemi Osoba Cres, Eti-Osa 106104, Lagos"
+  },
+  {
+    "Name": "Akintola Williams Deloitte House",
+    "Address": "Akintola Williams Deloitte House, 235 Ikorodu Rd, Ilupeju 102215, Lagos"
+  },
+  {
+    "Name": "Topo Garage",
+    "Address": "Soglo Way, Badagry"
+  },
+  {
+    "Name": "Broron Oil and Gas",
+    "Address": "Plot 15, Block 110 Henry Ojogho Cres, Ikoyi 106104, Lagos"
+  },
+  {
+    "Name": "Easy Payment Clothings",
+    "Address": "1 Ejike Levi Cl, Lagos 102273"
   }
    ],
  "Abuja": [
