@@ -1,60 +1,192 @@
 {
-"States": {
- "Lagos": [
-  {
-   "Name": "Awolowo House",
-   "Address": "Awolowo House, Ikeja Under bridge"
-  },
-    {
-   "Name": "Idumota Car Park",
-   "Address": "151 Adeniji Adele St, Lagos Island 102273, Lagos"
-  },
-    {
-   "Name": "Car Park",
-   "Address": "F97P+QPW, Lagos Island 102273, Lagos"
-  },
-    {
-   "Name": "Car Park",
-   "Address": "31 Marina Rd, Lagos Island 102273, Lagos"
-  },
-  {
-    "Name": "Tinubu Square",
-    "Address": "Broad St, Lagos Island 102273, Lagos"
-  },
-  {
-    "Name": "Cold Stone Creamery",
-    "Address": "Shop 3 Food Court, Adeniran Ogunsanya Shopping Mall, Adeniran Ogunsanya St, Surulere Lagos"
-  },
-  {
-    "Name": "Uba Pension Custodian Limited",
-    "Address": "22B Idowu Tylor, Engineering Close, Eti-Osa, Lagos"
-  },
-  {
-    "Name": "Banner Energy Limited",
-    "Address": "Plot 6 Babafemi Osoba Cres, Eti-Osa 106104, Lagos"
-  },
-  {
-    "Name": "Akintola Williams Deloitte House",
-    "Address": "Akintola Williams Deloitte House, 235 Ikorodu Rd, Ilupeju 102215, Lagos"
-  },
-  {
-    "Name": "Topo Garage",
-    "Address": "Soglo Way, Badagry"
-  },
-  {
-    "Name": "Broron Oil and Gas",
-    "Address": "Plot 15, Block 110 Henry Ojogho Cres, Ikoyi 106104, Lagos"
-  },
-  {
-    "Name": "Easy Payment Clothings",
-    "Address": "1 Ejike Levi Cl, Lagos 102273"
+  "States": {
+    "Lagos": [
+      {
+        "Name": "Awolowo House",
+        "Address": "Awolowo House, Ikeja Under bridge"
+      },
+      {
+        "Name": "Idumota Car Park",
+        "Address": "151 Adeniji Adele St, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Car Park",
+        "Address": "F97P+QPW, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Car Park",
+        "Address": "31 Marina Rd, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Tinubu Square",
+        "Address": "Broad St, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Cold Stone Creamery",
+        "Address": "Shop 3 Food Court, Adeniran Ogunsanya Shopping Mall, Adeniran Ogunsanya St, Surulere Lagos"
+      },
+      {
+        "Name": "Uba Pension Custodian Limited",
+        "Address": "22B Idowu Tylor, Engineering Close, Eti-Osa, Lagos"
+      },
+      {
+        "Name": "Banner Energy Limited",
+        "Address": "Plot 6 Babafemi Osoba Cres, Eti-Osa 106104, Lagos"
+      },
+      {
+        "Name": "Akintola Williams Deloitte House",
+        "Address": "Akintola Williams Deloitte House, 235 Ikorodu Rd, Ilupeju 102215, Lagos"
+      },
+      {
+        "Name": "Topo Garage",
+        "Address": "Soglo Way, Badagry"
+      },
+      {
+        "Name": "Broron Oil and Gas",
+        "Address": "Plot 15, Block 110 Henry Ojogho Cres, Ikoyi 106104, Lagos"
+      },
+      {
+        "Name": "Easy Payment Clothings",
+        "Address": "1 Ejike Levi Cl, Lagos 102273"
+      },
+      {
+        "Name": "Eke Transport Nigeria Limited",
+        "Address": "9 Iddo Foreshore Lagos, Lagos"
+      },
+      {
+        "Name": "Ez Sports Plaza",
+        "Address": "24A Creek Road, Lagos Mainland 102272, Lagos"
+      },
+      {
+        "Name": "Multichoice Nigeria Limited",
+        "Address": "Plot 1381 Tiamiyu Savage St, Eti-Osa 106104, Lagos"
+      },
+      {
+        "Name": "Crystalife Assurance Company Limited",
+        "Address": "12th-13th Floor, 15B Eleganzer House, Joseph Lambo St, Lagos"
+      },
+      {
+        "Name": "Apongbon Bridge Park",
+        "Address": "Olowogbowo/Elegbata, Lagos"
+      },
+      {
+        "Name": "Fast Projects Limited",
+        "Address": "50 Ladipo Labinjo Cres, Alaka 101241, Lagos"
+      },
+      {
+        "Name": "TAXI PARK",
+        "Address": "Taxi Park Bus-Stop, Cemetery Road, Amukoko Lagos. | Ajeromi-Ifelodun, Lagos"
+      },
+      {
+        "Name": "UBA Garden",
+        "Address": "Marina Rd, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Gowon Estate Taxi Park",
+        "Address": "Gowon Estate, 1st Avenue, 12 Rd, Idimu, Lagos"
+      },
+      {
+        "Name": "Degeconek Nigeria Limited",
+        "Address": "Ikoyi Dolphin Estate, 241A Ikorodu Crescent, Corporation Dr, Ikoyi, Lagos"
+      },
+      {
+        "Name": "Ecowas Car Park Lagos",
+        "Address": "9A, Block G, Industrial Estate, Amuwo Odofin Estate, Lagos"
+      },
+      {
+        "Name": "Chua Nigeria Limited",
+        "Address": "8 Oladeinde St, Anthony Village 105102, Lagos"
+      },
+      {
+        "Name": "Ifesinachi Park",
+        "Address": "Jibowu Lagos"
+      },
+      {
+        "Name": "Bridgegapmarket.com",
+        "Address": "Plot 229 Oyetunji House, Idi iroko Bus Stop, Maryland, Lagos"
+      },
+      {
+        "Name": "Ojota New Garage",
+        "Address": "Bayo Shodipo, Ojota 105102, Lagos"
+      },
+      {
+        "Name": "Xileph Resources Limited",
+        "Address": "37 Ikorodu Rd, Lagos Mainland 105102, Lagos"
+      },
+      {
+        "Name": "Aldkaf Limited",
+        "Address": "35 Opeki Rd, Ipaja 102213, Lagos"
+      },
+      {
+        "Name": "Chisco Transport Nigeria Limited",
+        "Address": "104 Funsho Williams Avenue, Iponri Rd, Lagos"
+      },
+      {
+        "Name": "CMS Garage",
+        "Address": "31 Marina Rd, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Elias Transport Services",
+        "Address": "30 Obun Eko St, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Regus Parking",
+        "Address": "Flower Rd, Ikoyi 106104, Lagos"
+      },
+      {
+        "Name": "Ero Car Pack",
+        "Address": "Ebute Ero, Ebute-Ero St, Lagos"
+      },
+      {
+        "Name": "Systems Engineering Car Park",
+        "Address": "Sapara Rd, Akoka 101245, Lagos"
+      },
+      {
+        "Name": "Asayireal Nigeria Limited",
+        "Address": "2A Ibimkeju Lane Lagos Idomuta, Lagos"
+      },
+      {
+        "Name": "Parking Space",
+        "Address": "248 Adeola Johnson St, Amuwo Odofin Estate 102102, Lagos"
+      },
+      {
+        "Name": "Balosh Car Parks",
+        "Address": "15b Omorinre Johnson Street, Lekki Phase 1 106104, Lagos"
+      },
+      {
+        "Name": "Oshodi Car Park",
+        "Address": "Ilupeju 101233, Lagos"
+      },
+      {
+        "Name": "Onikan Multilevel Carpark",
+        "Address": "King George V Rd, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Mega plaza car park",
+        "Address": "21B Idowu Martins St, Victoria Island 106104, Lagos"
+      },
+      {
+        "Name": "Mushin car park",
+        "Address": "Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "TBS Car Park",
+        "Address": "Old Defence Rd, Lagos Island 102273, Lagos"
+      },
+      {
+        "Name": "Flag house parking",
+        "Address": "Expressway1, Lagos Island, Lagos"
+      },
+      {
+        "Name": "Under Bridge Parking Lot",
+        "Address": "Odunlami St, Lagos Island 102273, Lagos"
+      }
+    ],
+    "Abuja": [
+      {
+        "Name": "Wuse Public Car Park",
+        "Address": "Kashim Ibrahim Way, Wuse 904101, Abuja, Federal Capital Territory"
+      }
+    ]
   }
-   ],
- "Abuja": [
-  {
-   "Name": "Wuse Public Car Park",
-   "Address": "Kashim Ibrahim Way, Wuse 904101, Abuja, Federal Capital Territory"
-  }
-   ]
-}
 }
